@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleMVC-jsjason/ConsoleMVC-jsjason.vcxproj" Id="1d6250d1-984b-4b2e-982d-f9ee43735f52" />
+</Solution>
